@@ -1,0 +1,25 @@
+IVS-Dataset 資料使用條款
+資料庫授權同意書
+感謝您使用我們的資料庫（以下簡稱「服務」）。「服務」是由交通大學智慧視覺系統設計實驗室「ivslab」（地址為：新竹市東區大學路1001號工程四館B02A室）提供。本資料庫授權同意書（以下簡稱「授權書」）用以規範用戶使用資料庫的關係。若使用或登入「服務」，即代表您同意本授權書，且本授權書將不時更新。
+
+    授權書之地位
+    本授權書為「IVS-Dataset使用條款權利義務宣告（以下簡稱「權利義務宣告」）」之附加條款，權利義務宣告中之條款於此「服務」中皆有適用，但是若有條款與此授權書衝突者，則不在此限。
+    資料庫使用
+        ivslab授權您全球、免權利金、非專屬、永久的（在著作權存續期間內）可以重製、傳輸以及修改資料庫中之資料，並得將基於「服務」所研發而成之成果或產品為商業目的之使用。但是您不得直接將資料庫中之資料為任何商業目的之使用。
+        當您使用基於「服務」所研發而成之成果或產品時，您必須依您所使用的媒介或工具適當地註明資料來源為ezLabel（https://www.aicreda.com）
+        您必須為自己使用「服務」的所有活動負完全的責任。您應對基於「服務」所研發而成之成果或產品之合法性負完全的責任，若有違反法令之情形，我們將有權停用您的帳號。
+    隱私權保護
+        IVS-Dataset會蒐集之資料：當您提出使用資料庫之請求時，系統會要求您提供個人資訊，包括您的組織型態、組織名稱、您的職位 ; 系統也會要求您提供商業相關資訊，包括您所欲應用之領域與申請資料庫之原因。
+        IVS-Dataset蒐集「個人與商業相關資料」（以下簡稱「資料」）之目的：ezLabel僅會將您的資料供我們改善消費者體驗、商業模型與統計用。我們會將您的資料以適當之措施進行保護，且不會將您所提供之資料洩漏於第三人，但若司法或政府機關調查時則不在此限。
+        若您希望creDa刪除您所提供之資料，請聯絡我們。
+    免責聲明
+    除非由本授權書之當事人相互以書面表示同意，且在法律所允許之最大範圍內，否則ezLabel是以現狀之基礎提供「服務」，ezLabel未聲明或提供關於本著作之任何保證，無論明示或默示，無論是否為法律所規定，包含但不限於任何有關本著作權利之擔保、可商業性、是否符合某特定之目的、未侵害他人權利、不具有潛在或其他之缺陷、正確性、或不論能否被發現之錯誤。
+    終止條款
+    若您違反本授權條款，本授權條款及其所授與之權利將自動終止。
+
+    All rights reserved. Redistribution and use software in source and binary form, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Neither the name of the IVS-Dataset Consortium nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE AND ANNOTATIONS ARE PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
