@@ -1,3 +1,3 @@
 how to download ivs-Dataset
 download link : 
-140.113.217.244:8000/download/openfile
+http://140.113.217.244:8000/download/openfile
