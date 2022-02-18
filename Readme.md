@@ -13,6 +13,6 @@ The iVS dataset consists of 89,002 annotated training images and 6,400 annotated
 
 ## iVS-Dataset Annotation
 
-- [Class: the object class. I.e. car or person]
-- [Bounding box: an axis-aligned rectangle specifying the extent of the object visible in the image]  
+- Class: the object class. I.e. car or person  
+- Bounding box: an axis-aligned rectangle specifying the extent of the object visible in the image  
 
