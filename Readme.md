@@ -5,9 +5,12 @@ For overcoming the limitations in the standard datasets with the data such as wi
 ## Annotation
 The dataset annotates the four commonly seen object types into four different categories of objects namely:
 
- 1.scooter
- 2.vehicle
- 3.pedestrian
- 4.bicycle
+1.scooter
+
+2.vehicle
+
+3.pedestrian
+
+4.bicycle
 
 The iVS dataset consists of 89,002 annotated training images and 6,400 annotated testing images of resolution 1920x1080
