@@ -19,4 +19,3 @@ The iVS dataset consists of 89,002 annotated training images and 6,400 annotated
 ## How to download the IVS-Dataset?
 
 [IVS-Dataset](http://140.113.217.244:8000/download/openfile)
-http://140.113.217.244:8000/download/openfile
