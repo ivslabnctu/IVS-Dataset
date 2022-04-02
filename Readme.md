@@ -24,6 +24,9 @@ The iVS dataset consists of 89,002 annotated training images and 6,400 annotated
 download link :   
 [IVS-Dataset](http://140.113.217.244:8000/download/openfile)
 
+If you can not download the file, Please paste the link 
+http://140.113.217.244:8000/download/openfile
+
 # IVS-Dataset and ezLabel: Terms of usage
 Database Authorization Consent:  
 Thank you for using our database (hereinafter referred as "Service"). The "Service" are provided by the Intelligent Vision System Design Laboratory “ivslab" National Yang Ming Chiao Tung University, Hsinchu City, Taiwan (Address: Room B02A, Engineering Building 4, No. 1001, Ta Hsueh Road, East District, Hsinchu City, Taiwan). This database authorization agreement (hereinafter referred to as the "authorization letter") is used to regulate the relationship between users using the database and the “ivslab”. By using or logging into the Service, you agree to this authorization, which will be updated from time to time.  
